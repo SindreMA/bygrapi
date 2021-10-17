@@ -65,8 +65,15 @@ namespace Bygr_test_API
 
             app.UseHttpsRedirection();
             app.UseMvc();
-
-            app.UseCors();
+            app.UseCors(b => b
+                 .WithOrigins("http://bygrweb.sindrema.com")
+                 .WithOrigins("https://bygrweb.sindrema.com")
+                 .WithOrigins("http://bygr.sindrema.com")
+                 .WithOrigins("https://bygr.sindrema.com")
+                 .AllowCredentials()
+                 .AllowAnyMethod()
+                 .AllowAnyHeader()
+         );
 
         }
     }
