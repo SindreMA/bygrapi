@@ -16,7 +16,7 @@ namespace Bygr_test_API
         {
             CreateWebHostBuilder(args).UseKestrel()
                 .UseContentRoot(Directory.GetCurrentDirectory())
-                .UseUrls("http://*:8585")
+                .UseUrls("http://*:8686")
                 .UseIISIntegration().Build().Run();
         }
 
