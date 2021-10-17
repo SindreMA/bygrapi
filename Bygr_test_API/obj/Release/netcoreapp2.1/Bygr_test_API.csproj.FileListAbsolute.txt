@@ -1,0 +1,14 @@
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\bin\Release\netcoreapp2.1\Bygr_test_API.deps.json
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\bin\Release\netcoreapp2.1\Bygr_test_API.runtimeconfig.json
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\bin\Release\netcoreapp2.1\Bygr_test_API.runtimeconfig.dev.json
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\bin\Release\netcoreapp2.1\Bygr_test_API.dll
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\bin\Release\netcoreapp2.1\Bygr_test_API.pdb
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.csprojAssemblyReference.cache
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.csproj.CoreCompileInputs.cache
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.RazorAssemblyInfo.cache
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.RazorAssemblyInfo.cs
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.AssemblyInfoInputs.cache
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.AssemblyInfo.cs
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.RazorTargetAssemblyInfo.cache
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.dll
+D:\Mega Fullsync\Programs\Bygr_test_API\Bygr_test_API\obj\Release\netcoreapp2.1\Bygr_test_API.pdb
