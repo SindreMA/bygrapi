@@ -62,9 +62,6 @@ namespace Bygr_test_API
             {
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Bygr Test API V1");
             });
-
-            app.UseHttpsRedirection();
-            app.UseMvc();
             app.UseCors(b => b
                  .WithOrigins("http://bygrweb.sindrema.com")
                  .WithOrigins("https://bygrweb.sindrema.com")
@@ -77,6 +74,10 @@ namespace Bygr_test_API
                  .AllowAnyMethod()
                  .AllowAnyHeader()
          );
+
+            app.UseHttpsRedirection();
+            app.UseMvc();
+            
 
         }
     }
